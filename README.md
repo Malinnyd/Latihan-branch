@@ -1,2 +1,4 @@
 # Latihan-branch
-ini adalah repository untuk latihan membuat branch baru di GitHub. gITHUB ASYIK
+
+ini adalah repository untuk latihan membuat branch baru di GitHub. GitHub itu asyik loh
+
